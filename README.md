@@ -5,9 +5,12 @@ CEP 12.247-014 – São José dos Campos – SP – Brasil
 jose.forneiro@fatec.sp.gov.br
 Junho de 2021
 
+
+
 Resumo. O presente trabalho se propõe a apresentar o cenário nacional com relação às ofertas de oportunidades para profissionais da área da tecnologia versus a quantidade desses profissionais no mercado e os problemas que essa realidade traz para empresas que precisam contratar essa mão-de-obra especializada.
 O trabalho aponta para uma solução diferenciada de serviço de hunting desses profissionais, como forma de ajudar empresas pequenas e médias nessa busca que exige muito esforço, recursos internos variados e know-how específicos.
 Conclui-se que ainda existem oportunidades inexploradas neste mercado, utilizando-se a tecnologia como ferramenta de busca e identificação desses profissionais.
+
 
 
 1.	Introdução
