@@ -10,24 +10,6 @@ O trabalho aponta para uma solução diferenciada de serviço de hunting desses 
 Conclui-se que ainda existem oportunidades inexploradas neste mercado, utilizando-se a tecnologia como ferramenta de busca e identificação desses profissionais.
 
 
-Sumário
-1.	Introdução	3
-1.1	Problema	5
-1.2	Justificativa	5
-1.3 Objetivo	6
-2.	Proposta de solução	6
-2.1	Público-alvo	6
-2.2 Necessidades dos Clientes	7
-2.3 Características do Serviço	8
-2.4 Benefícios dos Serviços	8
-2.5 Competidores	9
-2.5.1 Empresas prestadoras de serviço em hunting de profissionais de tecnologia	9
-2.5.2 Empresas de serviços de plataformas de Recrutamento e Seleção	10
-2.6 Vantagens Competitivas	10
-3.	Conclusões	11
-4.	Referências Bibliográficas	11
-
-
 1.	Introdução
 
 Segundo dados de um mapeamento realizado pelo Tech Report 2020, a partir de informações da Neoway em parceria com a Finep, o Brasil tinha na época, 306,4 mil empresas com atuação no setor de tecnologia.
