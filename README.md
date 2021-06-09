@@ -8,9 +8,6 @@ Junho de 2021
 Resumo. O presente trabalho se propõe a apresentar o cenário nacional com relação às ofertas de oportunidades para profissionais da área da tecnologia versus a quantidade desses profissionais no mercado e os problemas que essa realidade traz para empresas que precisam contratar essa mão-de-obra especializada.
 O trabalho aponta para uma solução diferenciada de serviço de hunting desses profissionais, como forma de ajudar empresas pequenas e médias nessa busca que exige muito esforço, recursos internos variados e know-how específicos.
 Conclui-se que ainda existem oportunidades inexploradas neste mercado, utilizando-se a tecnologia como ferramenta de busca e identificação desses profissionais.
-Abstract. The present work proposes to present the National scenario regarding the offers of opportunities for professionals in the field of technology versus the number of these professionals in the market and therefore, the problems that this reality brings to companies that need to hire this specialized workforce.
-The work points to a differentiated solution for theses professionals hunting services, as a way to help small and medium-sized companies in this search that requires a lot of effort, varied internal resources and specific know-how.
-It is concluded that there are still unexplored opportunities in this market, using technology as a search and identification tool for these professionals.
 
 
 Sumário
